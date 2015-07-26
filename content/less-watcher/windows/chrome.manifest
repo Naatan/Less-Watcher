@@ -1,0 +1,3 @@
+content komodo-src /home/nathan/Projects/komodo-dev/src/
+skin komodo-src-skin /home/nathan/Projects/komodo-dev/src/chrome/skin
+skin komodo-src-plat /home/nathan/Projects/komodo-dev/src/chrome/skin/plat/gnome

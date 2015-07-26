@@ -1,0 +1,3 @@
+content ko-utils content/
+
+overlay chrome://komodo/content/komodo.xul chrome://ko-utils/content/less-watcher/overlay.xul

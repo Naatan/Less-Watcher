@@ -1,0 +1,141 @@
+# Tabula Rasa Skin
+override chrome://tabularasa/skin/colors.less  chrome://komodo-src/content/modules/tabularasa/skin/colors.less
+override chrome://tabularasa/skin/reset.less  chrome://komodo-src/content/modules/tabularasa/skin/reset.less
+override chrome://tabularasa/skin/style.less  chrome://komodo-src/content/modules/tabularasa/skin/style.less
+override chrome://tabularasa/skin/normalize.less  chrome://komodo-src/content/modules/tabularasa/skin/normalize.less
+
+# Preprocessed files are currently not supported
+# override chrome://openfiles/skin/openfiles.p.less  chrome://komodo-src/content/modules/openfiles/skin/openfiles.p.less
+# override chrome://komodo-places/skin/places.p.less  chrome://komodo-src/content/modules/places/skin/places.p.less
+# override chrome://refactoring/skin/refactoring.p.less  chrome://komodo-src/content/modules/refactoring/skin/refactoring.p.less
+
+## Platform
+#override chrome://komodo/skin/platform.less  chrome://komodo-src-plat/content/platform.less
+#
+## Helpers
+#override chrome://komodo/skin/_helpers/shortcuts.less  chrome://komodo-src-skin/content/_helpers/shortcuts.less
+#override chrome://komodo/skin/iconset/config.less  chrome://komodo-src-skin/content/iconset/config.less
+#override chrome://komodo/skin/iconset/rules.less  chrome://komodo-src-skin/content/iconset/rules.less
+#
+## Main Platform Skinning
+#override chrome://komodo/skin/_config/icons.less  chrome://komodo-src-plat/content/_config/icons.less
+#override chrome://komodo/skin/_config/menus.less  chrome://komodo-src-plat/content/_config/menus.less
+#override chrome://komodo/skin/_config/modules.less  chrome://komodo-src-plat/content/_config/modules.less
+#override chrome://komodo/skin/_config/panes.less  chrome://komodo-src-plat/content/_config/panes.less
+#override chrome://komodo/skin/_config/scrollbars.less  chrome://komodo-src-plat/content/_config/scrollbars.less
+#override chrome://komodo/skin/_config/tabs.less  chrome://komodo-src-plat/content/_config/tabs.less
+#override chrome://komodo/skin/_config/toolbars.less  chrome://komodo-src-plat/content/_config/toolbars.less
+#override chrome://komodo/skin/_config/window.less  chrome://komodo-src-plat/content/_config/window.less
+#override chrome://komodo/skin/content/global.less  chrome://komodo-src-plat/content/global.less
+#override chrome://komodo/skin/content/menus.less  chrome://komodo-src-plat/content/menus.less
+#override chrome://komodo/skin/content/modules.less  chrome://komodo-src-plat/content/modules.less
+#override chrome://komodo/skin/content/panes.less  chrome://komodo-src-plat/content/panes.less
+#override chrome://komodo/skin/content/platform.less  chrome://komodo-src-plat/content/platform.less
+#override chrome://komodo/skin/content/scrollbars.less  chrome://komodo-src-plat/content/scrollbars.less
+#override chrome://komodo/skin/content/tabs.less  chrome://komodo-src-plat/content/tabs.less
+#override chrome://komodo/skin/content/toolbars.less  chrome://komodo-src-plat/content/toolbars.less
+#override chrome://komodo/skin/content/window.less  chrome://komodo-src-plat/content/window.less
+#
+## Shared Skinning
+#override chrome://komodo/skin/plat/shared/_config/icons.less  chrome://komodo-src-skin/content/plat/shared/_config/icons.less
+#override chrome://komodo/skin/plat/shared/_config/menus.less  chrome://komodo-src-skin/content/plat/shared/_config/menus.less
+#override chrome://komodo/skin/plat/shared/_config/modules.less  chrome://komodo-src-skin/content/plat/shared/_config/modules.less
+#override chrome://komodo/skin/plat/shared/_config/panes.less  chrome://komodo-src-skin/content/plat/shared/_config/panes.less
+#override chrome://komodo/skin/plat/shared/_config/scrollbars.less  chrome://komodo-src-skin/content/plat/shared/_config/scrollbars.less
+#override chrome://komodo/skin/plat/shared/_config/tabs.less  chrome://komodo-src-skin/content/plat/shared/_config/tabs.less
+#override chrome://komodo/skin/plat/shared/_config/toolbars.less  chrome://komodo-src-skin/content/plat/shared/_config/toolbars.less
+#override chrome://komodo/skin/plat/shared/_config/window.less  chrome://komodo-src-skin/content/plat/shared/_config/window.less
+#override chrome://komodo/skin/plat/shared/global.less  chrome://komodo-src-skin/content/plat/shared/global.less
+#override chrome://komodo/skin/plat/shared/icons.less  chrome://komodo-src-skin/content/plat/shared/icons.less
+#override chrome://komodo/skin/plat/shared/icons_depend.less  chrome://komodo-src-skin/content/plat/shared/icons_depend.less
+#override chrome://komodo/skin/plat/shared/icons_rules.less  chrome://komodo-src-skin/content/plat/shared/icons_rules.less
+#override chrome://komodo/skin/plat/shared/menus.less  chrome://komodo-src-skin/content/plat/shared/menus.less
+#override chrome://komodo/skin/plat/shared/modules.less  chrome://komodo-src-skin/content/plat/shared/modules.less
+#override chrome://komodo/skin/plat/shared/panes.less  chrome://komodo-src-skin/content/plat/shared/panes.less
+#override chrome://komodo/skin/plat/shared/scrollbars.less  chrome://komodo-src-skin/content/plat/shared/scrollbars.less
+#override chrome://komodo/skin/plat/shared/scrolltabs.less  chrome://komodo-src-skin/content/plat/shared/scrolltabs.less
+#override chrome://komodo/skin/plat/shared/tabs.less  chrome://komodo-src-skin/content/plat/shared/tabs.less
+#override chrome://komodo/skin/plat/shared/toolbars.less  chrome://komodo-src-skin/content/plat/shared/toolbars.less
+#override chrome://komodo/skin/plat/shared/window.less  chrome://komodo-src-skin/content/plat/shared/window.less
+#
+## Abyss-Skin
+## Platform files are a bit tricky, currently not supported
+## override chrome://abyss-platform/content/platform.less chrome://komodo-src/content/modules/abyss_skin/content/platform/unix/platform.less
+#override chrome://abyss-skin/skin/_config/icons.less  chrome://komodo-src/content/modules/abyss_skin/skin/_config/icons.less
+#override chrome://abyss-skin/skin/_config/menus.less  chrome://komodo-src/content/modules/abyss_skin/skin/_config/menus.less
+#override chrome://abyss-skin/skin/_config/modules.less  chrome://komodo-src/content/modules/abyss_skin/skin/_config/modules.less
+#override chrome://abyss-skin/skin/_config/panes.less  chrome://komodo-src/content/modules/abyss_skin/skin/_config/panes.less
+#override chrome://abyss-skin/skin/_config/scrollbars.less  chrome://komodo-src/content/modules/abyss_skin/skin/_config/scrollbars.less
+#override chrome://abyss-skin/skin/_config/tabs.less  chrome://komodo-src/content/modules/abyss_skin/skin/_config/tabs.less
+#override chrome://abyss-skin/skin/_config/toolbars.less  chrome://komodo-src/content/modules/abyss_skin/skin/_config/toolbars.less
+#override chrome://abyss-skin/skin/_config/window.less  chrome://komodo-src/content/modules/abyss_skin/skin/_config/window.less
+#override chrome://abyss-skin/skin/skin/menus.less  chrome://komodo-src/content/modules/abyss_skin/skin/menus.less
+#override chrome://abyss-skin/skin/skin/modules.less  chrome://komodo-src/content/modules/abyss_skin/skin/modules.less
+#override chrome://abyss-skin/skin/skin/panes.less  chrome://komodo-src/content/modules/abyss_skin/skin/panes.less
+#override chrome://abyss-skin/skin/skin/tabs.less  chrome://komodo-src/content/modules/abyss_skin/skin/tabs.less
+#override chrome://abyss-skin/skin/skin/toolbars.less  chrome://komodo-src/content/modules/abyss_skin/skin/toolbars.less
+#override chrome://abyss-skin/skin/skin/window.less  chrome://komodo-src/content/modules/abyss_skin/skin/window.less
+#
+## Breadcrumbs
+#override chrome://breadcrumbs/skin/breadcrumbs.less  chrome://komodo-src/content/modules/breadcrumbs/skin/breadcrumbs.less
+#
+## Classic Skin
+#override chrome://skin-classic/skin/_config/panes.less  chrome://komodo-src/content/modules/classic_skin/skin/_config/panes.less
+#override chrome://skin-classic/skin/_config/tabs.less  chrome://komodo-src/content/modules/classic_skin/skin/_config/tabs.less
+#override chrome://skin-classic/skin/_config/toolbars.less  chrome://komodo-src/content/modules/classic_skin/skin/_config/toolbars.less
+#override chrome://skin-classic/skin/_config/window.less  chrome://komodo-src/content/modules/classic_skin/skin/_config/window.less
+#override chrome://skin-classic/skin/panes.less  chrome://komodo-src/content/modules/classic_skin/skin/panes.less
+#override chrome://skin-classic/skin/scrollbars.less  chrome://komodo-src/content/modules/classic_skin/skin/scrollbars.less
+#override chrome://skin-classic/skin/toolbars.less  chrome://komodo-src/content/modules/classic_skin/skin/toolbars.less
+#
+## Fast Open
+#override chrome://fastopen/skin/gotofile.less  chrome://komodo-src/content/modules/fastopen/skin/gotofile.less
+#
+## Get Started
+#override chrome://getstarted/skin/dialog.less  chrome://komodo-src/content/modules/getstarted/skin/dialog.less
+#
+## GTK Adwaita Skin
+#override chrome://gtk-adwaita/skin/_config/menus.less  chrome://komodo-src/content/modules/gtk_adwaita/skin/_config/menus.less
+#override chrome://gtk-adwaita/skin/_config/tabs.less  chrome://komodo-src/content/modules/gtk_adwaita/skin/_config/tabs.less
+#override chrome://gtk-adwaita/skin/_config/toolbars.less  chrome://komodo-src/content/modules/gtk_adwaita/skin/_config/toolbars.less
+#override chrome://gtk-adwaita/skin/_config/window.less  chrome://komodo-src/content/modules/gtk_adwaita/skin/_config/window.less
+#override chrome://gtk-adwaita/skin/tabs.less  chrome://komodo-src/content/modules/gtk_adwaita/skin/tabs.less
+#override chrome://gtk-adwaita/skin/toolbars.less  chrome://komodo-src/content/modules/gtk_adwaita/skin/toolbars.less
+#
+## GTK Ambiance Skin
+#override chrome://gtk-ambiance/skin/_config/menus.less  chrome://komodo-src/content/modules/gtk_ambiance/skin/_config/menus.less
+#override chrome://gtk-ambiance/skin/_config/modules.less  chrome://komodo-src/content/modules/gtk_ambiance/skin/_config/modules.less
+#override chrome://gtk-ambiance/skin/_config/toolbars.less  chrome://komodo-src/content/modules/gtk_ambiance/skin/_config/toolbars.less
+#override chrome://gtk-ambiance/skin/menus.less  chrome://komodo-src/content/modules/gtk_ambiance/skin/menus.less
+#override chrome://gtk-ambiance/skin/toolbars.less  chrome://komodo-src/content/modules/gtk_ambiance/skin/toolbars.less
+#
+## GTK Dark Skin
+#override chrome://gtk-dark/skin/_config/panes.less  chrome://komodo-src/content/modules/gtk_dark/skin/_config/panes.less
+#override chrome://gtk-dark/skin/_config/tabs.less  chrome://komodo-src/content/modules/gtk_dark/skin/_config/tabs.less
+#override chrome://gtk-dark/skin/_config/window.less  chrome://komodo-src/content/modules/gtk_dark/skin/_config/window.less
+#override chrome://gtk-dark/skin/tabs.less  chrome://komodo-src/content/modules/gtk_dark/skin/tabs.less
+#
+## GTK Elementary Skin
+#override chrome://gtk-elementary/skin/_config/menus.less  chrome://komodo-src/content/modules/gtk_elementary/skin/_config/menus.less
+#override chrome://gtk-elementary/skin/_config/scrollbars.less  chrome://komodo-src/content/modules/gtk_elementary/skin/_config/scrollbars.less
+#override chrome://gtk-elementary/skin/_config/tabs.less  chrome://komodo-src/content/modules/gtk_elementary/skin/_config/tabs.less
+#override chrome://gtk-elementary/skin/_config/toolbars.less  chrome://komodo-src/content/modules/gtk_elementary/skin/_config/toolbars.less
+#override chrome://gtk-elementary/skin/_config/window.less  chrome://komodo-src/content/modules/gtk_elementary/skin/_config/window.less
+#override chrome://gtk-elementary/skin/modules.less  chrome://komodo-src/content/modules/gtk_elementary/skin/modules.less
+#override chrome://gtk-elementary/skin/tabs.less  chrome://komodo-src/content/modules/gtk_elementary/skin/tabs.less
+#
+## Ambiance Iconset
+#override chrome://iconset-ambiance/skin/config.less  chrome://komodo-src/content/modules/iconset_ambiance/skin/config.less
+#override chrome://iconset-blue/skin/config.less  chrome://komodo-src/content/modules/iconset_blue/skin/config.less
+#override chrome://iconset-classic/skin/config.less  chrome://komodo-src/content/modules/iconset_classic/skin/config.less
+#override chrome://iconset-classic/skin/rules.less  chrome://komodo-src/content/modules/iconset_classic/skin/rules.less
+#override chrome://iconset-cupertino/skin/config-hidpi.less  chrome://komodo-src/content/modules/iconset_cupertino/skin/config-hidpi.less
+#override chrome://iconset-cupertino/skin/config.less  chrome://komodo-src/content/modules/iconset_cupertino/skin/config.less
+#override chrome://iconset-cupertino/skin/rules.less  chrome://komodo-src/content/modules/iconset_cupertino/skin/rules.less
+#override chrome://iconset-cupertino_blue/skin/config-hidpi.less  chrome://komodo-src/content/modules/iconset_cupertino_blue/skin/config-hidpi.less
+#override chrome://iconset-cupertino_blue/skin/config.less  chrome://komodo-src/content/modules/iconset_cupertino_blue/skin/config.less
+#override chrome://iconset-cupertino_blue/skin/rules.less  chrome://komodo-src/content/modules/iconset_cupertino_blue/skin/rules.less
+#override chrome://iconset-dark/skin/config.less  chrome://komodo-src/content/modules/iconset_dark/skin/config.less
+#override chrome://iconset-light/skin/config.less  chrome://komodo-src/content/modules/iconset_light/skin/config.less
+#override chrome://iconset-orange/skin/config.less  chrome://komodo-src/content/modules/iconset_orange/skin/config.less
+#override chrome://iconset-radiance/skin/config.less  chrome://komodo-src/content/modules/iconset_radiance/skin/config.less
